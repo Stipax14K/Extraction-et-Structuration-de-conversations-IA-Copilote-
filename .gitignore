@@ -1,0 +1,7 @@
+/deploy_log.txt
+*.zip
+*.csv
+.venv/
+__pycache__/
+node_modules/
+.DS_Store
